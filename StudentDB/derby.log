@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 04 17:04:59 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015d-0d61-b6f4-000003429388 
+on database directory memory:/home/decoders/Documents/workspace-sts-3.8.4.RELEASE/demogg/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/home/decoders/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.13.1.1/29c42babe5c5463c6eea45487d3cfbfe8348ccd1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-8u131-b11-0ubuntu1.16.04.2-b11
+user.dir=/home/decoders/Documents/workspace-sts-3.8.4.RELEASE/demogg
+os.name=Linux
+os.arch=amd64
+os.version=4.8.0-58-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
